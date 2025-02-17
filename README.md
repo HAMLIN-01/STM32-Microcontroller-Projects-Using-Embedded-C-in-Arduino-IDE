@@ -2,6 +2,7 @@
 This repository contains various STM32 microcontroller projects programmed in Embedded C using Arduino IDE. Each project demonstrates different fundamental concepts of microcontroller programming, interfacing, and embedded system design.
 # Projects Included
 1.Blinking of Alternate LEDs – Alternately blinks two LEDs with a time delay.
+
 2.Button Interface – Reads input from a push button and controls an LED.
 3.Calculator – Performs basic arithmetic operations using a keypad and displays the result on an LCD.
 4.DC Motor Control – Controls the speed and direction of a DC motor.
